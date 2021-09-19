@@ -1,0 +1,56 @@
+.card{
+    float:left;
+    position:relative;
+    margin:2vw;
+    top:7vw;
+    left:12vw;
+    width:25vw;
+    height:30vw;
+    border-radius:1vw;
+    border-style:solid;
+    border-width: thin;
+    background-color: rgb(252, 253, 253);
+    border-color: rgb(196, 196, 197);
+    box-shadow: 0 3px 5px 2px rgba(105, 165, 255, 0.3);  
+}
+
+.cardName{
+    margin:1vh;
+    margin-bottom: 2vw;
+    font-family: 'Montserrat', sans-serif;
+    font-size:2vw;
+    font-weight: bolder;
+    text-align: center;
+    border-style:solid;
+    border-width: thin;
+    border-radius: 1vh;
+    color: rgb(250, 251, 252);
+    background-color: black;
+    text-align: center;
+    height: 6vw;
+}
+
+.cardImg{
+
+    height:8vw;
+    width:16vw;
+    margin: 4vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+    position:relative;
+    border-radius: 2vw;
+}
+
+.cardDetail{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75vw;
+    margin:1vw;
+    width: 10vw;
+    float:left;
+    background-color: rgb(121, 193, 252);
+    color: black;
+    text-align: left;
+    border-radius: 3vh;
+    padding-left: 1vw;
+}
+

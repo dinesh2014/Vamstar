@@ -1,0 +1,148 @@
+
+export const carData =
+    [
+        {
+           "Name":"chevrolet chevelle malibu",
+           "Photo":"https://i.pinimg.com/originals/e0/30/cd/e030cdec399a254b93bf476c5e082553.jpg",
+           "Miles_per_Gallon":18,
+           "Cylinders":8,
+           "Displacement":307,
+           "Horsepower":130,
+           "Weight_in_lbs":3504,
+           "Acceleration":12,
+           "Year":"1970-01-01",
+           "Origin":"USA"
+        },
+        {
+            "Name":"plymouth 'cuda 340",
+            "Photo":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1970-plymouth-barracuda-340-dave-koontz.jpg",
+            "Miles_per_Gallon":14,
+            "Cylinders":8,
+            "Displacement":340,
+            "Horsepower":160,
+            "Weight_in_lbs":3609,
+            "Acceleration":8,
+            "Year":"1970-01-01",
+            "Origin":"USA"
+         },
+         {
+            "Name":"ford mustang boss 302",
+            "Photo":"https://img.gta5-mods.com/q95/images/1969-ford-mustang-boss-302-replace/55e0a9-20170526215238_1.jpg",
+            "Miles_per_Gallon":null,
+            "Cylinders":8,
+            "Displacement":302,
+            "Horsepower":140,
+            "Weight_in_lbs":3353,
+            "Acceleration":8,
+            "Year":"1970-01-01",
+            "Origin":"USA"
+         },
+         {
+            "Name":"pontiac catalina",
+            "Photo":"https://moneyinc.com/wp-content/uploads/2021/05/1965-Pontiac-Catalina-GTO-Hardtop.jpg",
+            "Miles_per_Gallon":14,
+            "Cylinders":8,
+            "Displacement":455,
+            "Horsepower":225,
+            "Weight_in_lbs":4425,
+            "Acceleration":10,
+            "Year":"1970-01-01",
+            "Origin":"USA"
+         },
+         {
+            "Name":"amc ambassador dpl",
+            "Photo":"https://i.pinimg.com/originals/72/6f/55/726f55156d4c341f5be0c70b8762f253.jpg",
+            "Miles_per_Gallon":15,
+            "Cylinders":8,
+            "Displacement":390,
+            "Horsepower":190,
+            "Weight_in_lbs":3850,
+            "Acceleration":8.5,
+            "Year":"1970-01-01",
+            "Origin":"USA"
+         },
+         {
+            "Name":"volkswagen 1131 deluxe sedan",
+            "Photo":"https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGENBeetle-1716_9.jpg",
+            "Miles_per_Gallon":26,
+            "Cylinders":4,
+            "Displacement":97,
+            "Horsepower":46,
+            "Weight_in_lbs":1835,
+            "Acceleration":20.5,
+            "Year":"1970-01-01",
+            "Origin":"Europe"
+         },
+         {
+            "Name":"peugeot 504",
+            "Photo":"https://www.1999.co.jp/itbig64/10645426.jpg",
+            "Miles_per_Gallon":25,
+            "Cylinders":4,
+            "Displacement":110,
+            "Horsepower":87,
+            "Weight_in_lbs":2672,
+            "Acceleration":17.5,
+            "Year":"1970-01-01",
+            "Origin":"Europe"
+         },
+         {
+            "Name":"audi 100 ls",
+            "Photo":"https://bringatrailer.com/wp-content/uploads/2017/12/1I5A4313w-e1513637342683.jpg?fit=909%2C675",
+            "Miles_per_Gallon":24,
+            "Cylinders":4,
+            "Displacement":107,
+            "Horsepower":90,
+            "Weight_in_lbs":2430,
+            "Acceleration":14.5,
+            "Year":"1970-01-01",
+            "Origin":"Europe"
+         },
+         {
+            "Name":"bmw 2002",
+            "Photo":"https://bringatrailer.com/wp-content/uploads/2020/03/1973_bmw_2002tii_1584753007b1e1f8cbe183b91973_bmw_2002tii_1584653178208495d5664b7c275-f92f-4443-b386-44b4fc084610-EPQBra.jpg?fit=940%2C626",
+            "Miles_per_Gallon":26,
+            "Cylinders":4,
+            "Displacement":121,
+            "Horsepower":113,
+            "Weight_in_lbs":2234,
+            "Acceleration":12.5,
+            "Year":"1970-01-01",
+            "Origin":"Europe"
+         },
+         {
+            "Name":"volvo 145e (sw)",
+            "Photo":"https://bestcarmag.com/sites/default/files/1821319VOLVO145-2437_7.jpg",
+            "Miles_per_Gallon":18,
+            "Cylinders":4,
+            "Displacement":121,
+            "Horsepower":112,
+            "Weight_in_lbs":2933,
+            "Acceleration":14.5,
+            "Year":"1972-01-01",
+            "Origin":"Europe"
+         },
+         {
+            "Name":"datsun pl510",
+            "Photo":"https://ccnwordpress.blob.core.windows.net/journal/2018/06/12247208-1972-datsun-240z-srcset-retina-md.jpg",
+            "Miles_per_Gallon":27,
+            "Cylinders":4,
+            "Displacement":97,
+            "Horsepower":88,
+            "Weight_in_lbs":2130,
+            "Acceleration":14.5,
+            "Year":"1970-01-01",
+            "Origin":"Japan"
+         },
+         {
+            "Name":"toyota mark ii",
+            "Photo":"https://i.pinimg.com/originals/90/10/d8/9010d81e7834d81753e0db616b823068.jpg",
+            "Miles_per_Gallon":20,
+            "Cylinders":6,
+            "Displacement":156,
+            "Horsepower":122,
+            "Weight_in_lbs":2807,
+            "Acceleration":13.5,
+            "Year":"1973-01-01",
+            "Origin":"Japan"
+         },
+]

@@ -1,0 +1,54 @@
+.country{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5vw;
+    margin-left: 2.5vw;
+    height: 100vh;
+    position:fixed;
+    width:8vw;
+    border: solid rgb(219, 218, 218);
+    border-width: 0 1px 0px 0;
+    border-radius: 0.5vw;
+
+}
+.paginate{
+    display:block;
+    padding:1vw;
+    color:gray;
+    position:absolute;
+    top:82.5vh;
+    left:40vw;
+}
+.range{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1vw;
+}
+
+.heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25vw;
+    font-weight:normal;
+    text-align:left;
+    margin-top: 5vw;
+    color: gray;
+}
+
+.countryCheck{
+    margin-left: 1vw;
+    font-size: 1vw; 
+}
+
+#cylinder{
+    width:1vw;
+    margin-left:1vw;
+}
+
+#customSelect{
+    width:5vw;
+    margin-left: 1vw;
+}
+
+#dropDown{
+    width:7vw;
+    margin-left: 0.25vw;
+}
+

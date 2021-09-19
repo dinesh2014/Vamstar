@@ -1,0 +1,84 @@
+.header{
+    position:fixed;
+    top:0vh;
+    width:100vw;
+    height:10vh;
+    background-image: linear-gradient(to right,#2f9afd 10%, #64c5fd 90%);
+    border-radius: 3;
+    box-shadow: 0 3px 5px 2px rgba(105, 165, 255, 0.3) ;
+    z-index: 100;
+
+}
+
+.carLogo i{
+    color:whitesmoke;
+    position:absolute;
+    font-size: 4vh;
+    font-family:'FontAwesome';
+    text-align: center;
+    top:3vh;
+    left:1vh;
+    width:5vw;
+    height:2.5vw
+}
+
+.logoText{
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    font-weight: bolder;
+    font-size:4vh;
+    color: whitesmoke;
+    text-align: center;
+    top:2vh;
+    left:10vh;
+    width:10vw;
+    height:2.5vw
+}
+
+.searchLogo {
+    position: absolute;
+    top:1.5vh;
+    left:70vw;
+    z-index: 1vh;
+}
+
+.searchLogo i {
+    position: absolute;
+    font-size: 3vh;
+    top:2vh;
+    left:1vw;
+    color:grey
+}
+.searchBar{
+    font-family: 'Montserrat', sans-serif;
+    left:70vw;
+    width:20vw;
+    height:7vh;
+    border-radius: 0.5vh;
+    border-style: none;
+    padding-left:6vh;
+    outline: none;
+}
+
+input:focus::placeholder {
+    color: transparent;
+  }
+
+  .Footer{
+
+    position:fixed;
+    bottom:0vh;
+    width:100vw;
+    height: 3.8vw;
+    background-color: rgb(245, 247, 247);
+    border: solid rgb(219, 218, 218);
+    border-width: 1px 1px 0px 0;
+    border-radius: 0.5vw;
+    z-index: 100;
+
+  }
+
+  .copyrights{
+    text-align: center;
+    color: rgb(207, 207, 207);
+}
